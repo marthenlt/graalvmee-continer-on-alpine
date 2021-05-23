@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Marthen Luther <marthen.luther@oracle.com>
+MAINTAINER Marthen Luther <marthen.luther@marthen.com>
 
 ENV JAVA_VERSION=graalvm-ee-java8-20.3.2 \
     JAVA_HOME=/opt/java/graalvm-ee-java8-20.3.2\
